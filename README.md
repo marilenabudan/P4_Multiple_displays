@@ -1,6 +1,8 @@
-## Practice 4
+# Interactive systems 
+## Practice 4 - Multiple displays
+Author: Maria Elena Budan - 206330 - u150404
 
-The Roll a ball game has been adapted to the requirements of practice 4: 
+The Roll a ball game (from practice 1) has been adapted to the requirements of practice 4: 
 - A setup to render the image in a panoramic display:
 Left and right cameras are configured to be displayed on two displays (display 1 and 2) of fixed size to 16:9
 
